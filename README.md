@@ -1,5 +1,4 @@
-# Activity 2
-***Programme to check the validity of the password***
+# ***Programme to check the validity of the password***
 * The user is prompted to enter a password.
 * The password is checked to see if it is at least 8 characters long.
 * If the password is less than 8 characters long, the user is prompted to enter a new password.
